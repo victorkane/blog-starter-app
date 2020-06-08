@@ -1,6 +1,6 @@
 ---
 title: 'Learn How to Pre-render Pages Using Static Generation with Next.js'
-excerpt: 'Tesseract paroxysm of global death a mote of dust suspended in a sunbeam emerged into consciousness cosmic ocean rich in heavy atoms. A very small stage in a vast cosmic arena realm of the galaxies not a sunrise but a galaxyrise citizens of distant epochs great turbulent clouds intelligent beings. Drake Equation Drake Equation vanquish the impossible the only home we've ever known invent the universe concept of the number one and billions upon billions upon billions upon billions upon billions upon billions upon billions.'
+excerpt: Tesseract paroxysm of global death a mote of dust suspended in a sunbeam emerged into consciousness cosmic ocean rich in heavy atoms. A very small stage in a vast cosmic arena realm of the galaxies not a sunrise but a galaxyrise citizens of distant epochs great turbulent clouds intelligent beings. Drake Equation Drake Equation vanquish the impossible the only home we've ever known invent the universe concept of the number one and billions upon billions upon billions upon billions upon billions upon billions upon billions.
 coverImage: '/assets/blog/hello-world/cover.jpg'
 date: '2020-03-16T05:35:07.322Z'
 author:
