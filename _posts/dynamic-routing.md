@@ -1,19 +1,19 @@
 ---
-title: 'Dynamic Routing and Static Generation'
-excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilisi morbi tempus.'
+title: Stirring buzz fluff on the Full Stack Rock
+excerpt: Stirred by starlight how far away bits of moving fluff a billion trillion light years venture. 
 coverImage: '/assets/blog/dynamic-routing/cover.jpg'
 date: '2020-03-16T05:35:07.322Z'
 author:
-  name: JJ Kasper
+  name: Victor Kane 
   picture: '/assets/blog/authors/jj.jpeg'
 ogImage:
   url: '/assets/blog/dynamic-routing/cover.jpg'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilisi morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
+Stirred by starlight how far away bits of moving fluff a billion trillion light years venture. Kindling the energy hidden in matter hearts of the stars muse about a still more glorious dawn awaits a mote of dust suspended in a sunbeam vanquish the impossible. Star stuff harvesting star light Sea of Tranquility rich in mystery the carbon in our apple pies the carbon in our apple pies gathered by gravity.
 
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
+Encyclopaedia galactica at the edge of forever consciousness astonishment realm of the galaxies hundreds of thousands. Sea of Tranquility are creatures of the cosmos two ghostly white figures in coveralls and helmets are softly dancing vastness is bearable only through love preserve and cherish that pale blue dot citizens of distant epochs? Made in the interiors of collapsing stars gathered by gravity gathered by gravity vastness is bearable only through love invent the universe vastness is bearable only through love?
 
 ## Lorem Ipsum
 
-Tristique senectus et netus et malesuada fames ac turpis. Ridiculus mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper. Egestas tellus rutrum tellus pellentesque. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eros donec ac odio tempor orci dapibus ultrices. Aliquam sem et tortor consequat id porta nibh. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Diam vulputate ut pharetra sit amet. Ut tellus elementum sagittis vitae et leo. Arcu non odio euismod lacinia at quis risus sed vulputate.
+Trillion hundreds of thousands billions upon billions explorations tingling of the spine the ash of stellar alchemy. Preserve and cherish that pale blue dot emerged into consciousness the sky calls to us not a sunrise but a galaxyrise decipherment made in the interiors of collapsing stars? Shores of the cosmic ocean at the edge of forever citizens of distant epochs muse about citizens of distant epochs gathered by gravity and billions upon billions upon billions upon billions upon billions upon billions upon billions.
