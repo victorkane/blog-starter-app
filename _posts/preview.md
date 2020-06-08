@@ -1,5 +1,5 @@
 ---
-title: 'Preview Mode for Static Generation'
+title: Turbulent Realms in the JAMstack
 excerpt: Realm of the galaxies muse about venture encyclopaedia galactica Flatland Cambrian explosion? Invent the universe cosmic ocean laws of physics laws of physics Sea of Tranquility emerged into consciousness.
 coverImage: '/assets/blog/preview/cover.jpg'
 date: '2020-06-08T06:00:00.322Z'
