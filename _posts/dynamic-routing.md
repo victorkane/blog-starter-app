@@ -1,6 +1,6 @@
 ---
 title: 'Dynamic Routing and Static Generation'
-excerpt: 'But tonight there was a shudder in his blood; the face of Hyde sat heavy on his memory...'
+excerpt: 'And the lawyer set out homeward with a very heavy heart...'
 coverImage: '/assets/blog/dynamic-routing/cover.jpg'
 date: '2022-04-24T05:35:07.322Z'
 author:
